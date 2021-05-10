@@ -3,7 +3,7 @@
  *   Date: 23-08-2020
  *   Time: 18:05
  *   File: SimpleBot.java
- */
+ **/
 //package bot;
 
 import java.util.Scanner;
